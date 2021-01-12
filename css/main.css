@@ -328,7 +328,8 @@
       padding: 0.5rem; }
       #landing-section .landing-register .register-form input[type='submit'],
       #landing-section .landing-register .login-form input[type='submit'] {
-        font-weight: bold; }
+        font-weight: bold;
+        -webkit-appearance: none; }
 
 #landing-footer {
   position: absolute;
